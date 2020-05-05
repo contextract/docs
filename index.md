@@ -6,5 +6,5 @@ title: Reference Docs
 
 # Reference Documents
 
-[Privacy](privacy)
-[Term](term)
+[Privacy and Policy](privacy)
+[Terms and Conditions](terms)
