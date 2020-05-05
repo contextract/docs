@@ -1,7 +1,10 @@
 ---
-layout: page
-title: Common documents
+layout: default
+title: Reference Docs
 ---
 
 
-# Test document
+# Reference Documents
+
+[Privacy](privacy)
+[Term](term)
