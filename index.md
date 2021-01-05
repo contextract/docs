@@ -8,3 +8,8 @@ title: Reference Docs
 
 - [Privacy and Policy](privacy)
 - [Terms and Conditions](terms)
+
+
+## Agauction Documents
+
+- [Privacy and Policy](agauction_privacy)
