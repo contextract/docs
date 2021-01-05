@@ -13,3 +13,7 @@ title: Reference Docs
 ## Agauction Documents
 
 - [Privacy and Policy](agauction_privacy)
+
+## Space Daily Documents
+
+- [Privacy and Policy](space_privacy)
