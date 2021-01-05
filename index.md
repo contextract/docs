@@ -17,3 +17,13 @@ title: Reference Docs
 ## Space Daily Documents
 
 - [Privacy and Policy](space_privacy)
+
+
+## Aniauction Documents
+
+- [Privacy and Policy](aniauction_privacy)
+
+
+## Pigauction Documents
+
+- [Privacy and Policy](pigauction_privacy)
