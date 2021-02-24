@@ -27,3 +27,8 @@ title: Reference Docs
 ## Pigauction Documents
 
 - [Privacy and Policy](pigauction_privacy)
+
+
+## Life is Egg Documents
+
+- [Privacy and Policy](lifeisegg_privacy)
