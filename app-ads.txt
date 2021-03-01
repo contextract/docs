@@ -1,1 +1,2 @@
 google.com, pub-5799876911847272, DIRECT, f08c47fec0942fa0
+facebook.com, Property ID, RESELLER, 424999665224829
