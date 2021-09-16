@@ -1,6 +1,6 @@
 **Privacy Policy**
 
-Hyejin Kim built the Space Daily app as an Ad Supported app. This SERVICE is provided by Hyejin Kim at no cost and is intended for use as is.
+Hyejin Kim built 삶은계란 app as an Ad Supported app. This SERVICE is provided by Hyejin Kim at no cost and is intended for use as is.
 
 This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 
